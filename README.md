@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=giovannicaiazzo01&label=Profile%20views&color=0e75b6&style=flat" alt="giovannicaiazzo01" /> </p>
 
-- 🔭 I’m currently working on **ProSettings Italia**
-
 - 📫 How to reach me **giovannicaiazzo002@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
