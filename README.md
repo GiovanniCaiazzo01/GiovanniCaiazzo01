@@ -40,6 +40,6 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="left">
-<a href="mailto:giovannicaiazzo001@gmail.com"><img src="https://img.shields.io/badge/-giovannicaiazzo002@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:giovannicaiazzo001@gmail.com"><img src="https://img.shields.io/badge/-giovannicaiazzo001@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://linkedin.com/in/caiazzo-giovanni"><img src="https://img.shields.io/badge/-Giovanni%20Caiazzo-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 </p>
