@@ -5,7 +5,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I’m a Front-End Developer passionate about building modern, scalable, and user-friendly web applications.\
-🌱 &nbsp;Currently focused on React, Next.js, TypeScript.
+🌱 &nbsp;Currently focused on React, Next.js, TypeScript.\
 💬 &nbsp;I enjoy collaborating on projects, contributing to open source, and continuously learning new technologies.\
 ✉️ &nbsp;You can reach me at **giovannicaiazzo001@gmail.com**.\ 
 
