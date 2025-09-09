@@ -1,17 +1,45 @@
-<h1 align="center">Hi 👋, I'm Giovanni</h1>
-<h3 align="center">A passionate Full-Stack Developer from Italy</h3>
+![Giovanni Caiazzo Banner](https://raw.githubusercontent.com/GiovanniCaiazzo01/GiovanniCaiazzo01/main/assets/banner.jpg)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=giovannicaiazzo01&label=Profile%20views&color=0e75b6&style=flat" alt="giovannicaiazzo01" /> </p>
+<img alt="Hand Wave" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Giovanni</h2>
 
-- 📫 How to reach me **giovannicaiazzo001@gmail.com**
+### 👨🏻‍💻 &nbsp;About Me
 
-<h3 align="left">Connect with me:</h3>
+💡 &nbsp;I’m a Front-End Developer passionate about building modern, scalable, and user-friendly web applications.\
+🌱 &nbsp;Currently focused on React, Next.js, TypeScript.
+💬 &nbsp;I enjoy collaborating on projects, contributing to open source, and continuously learning new technologies.\
+✉️ &nbsp;You can reach me at **giovannicaiazzo001@gmail.com**.\ 
+
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
+### 🛠 &nbsp;Tech Stack
+
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)&nbsp;\
+![Tailwind](https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=tailwind-css)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
+![Cypress](https://img.shields.io/badge/-Cypress-05122A?style=flat&logo=cypress)&nbsp;
+![Jest](https://img.shields.io/badge/-Jest-05122A?style=flat&logo=jest)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+
+### ⚙️ &nbsp;GitHub Analytics
+
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/caiazzo-giovanni/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/caiazzo-giovanni/" height="30" width="40" /></a>
+<a href="https://github.com/GiovanniCaiazzo01">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=GiovanniCaiazzo01&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GiovanniCaiazzo01&layout=compact&langs_count=8&theme=algolia"/>
+</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-</a> </p>
+### 🤝🏻 &nbsp;Connect with Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=giovannicaiazzo01&" alt="giovannicaiazzo01" /></p>
+<p align="left">
+<a href="mailto:giovannicaiazzo001@gmail.com"><img src="https://img.shields.io/badge/-giovannicaiazzo002@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/caiazzo-giovanni"><img src="https://img.shields.io/badge/-Giovanni%20Caiazzo-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+</p>
