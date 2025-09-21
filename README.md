@@ -1,5 +1,3 @@
-![Giovanni Caiazzo Banner](https://raw.githubusercontent.com/GiovanniCaiazzo01/GiovanniCaiazzo01/main/assets/banner.jpg)
-
 <img alt="Hand Wave" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Giovanni</h2>
 
 ### 👨🏻‍💻 &nbsp;About Me
@@ -8,8 +6,6 @@
 🌱 &nbsp;Currently focused on React, Next.js, TypeScript.\
 💬 &nbsp;I enjoy collaborating on projects, contributing to open source, and continuously learning new technologies.\
 ✉️ &nbsp;You can reach me at **giovannicaiazzo001@gmail.com** 
-
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -43,3 +39,5 @@
 <a href="mailto:giovannicaiazzo001@gmail.com"><img src="https://img.shields.io/badge/-giovannicaiazzo001@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://linkedin.com/in/caiazzo-giovanni"><img src="https://img.shields.io/badge/-Giovanni%20Caiazzo-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 </p>
+
+![Giovanni Caiazzo Banner](https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/retro2_live.gif)
