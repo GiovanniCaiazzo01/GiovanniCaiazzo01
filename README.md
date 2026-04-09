@@ -83,7 +83,7 @@
 
 ---
 
-### ⌨️ Keyboard Layouts
+### ⌨️ Keyboard Layouts In Use
 
 <div align="left">
   <table style="border: none;">
@@ -106,14 +106,6 @@
   </table>
 </div>
 <br>
-
-| Feature | QWERTY | Colemak |
-| :--- | :--- | :--- |
-| **🏠 Home row usage** | ~32% | **~74%** |
-| **🤝 Same-hand bigrams** | High | **Minimized** |
-| **💪 Finger travel** | Baseline | **~50% less** |
-| **🔄 Keys changed** | — | **17** |
-| **😤 Learning curve** | None | **~2–4 weeks** |
 
 ---
 
@@ -139,9 +131,12 @@
 
 ### 🤝 Let's Connect
 
-<div align="center">
-  </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer" width="100%"/>
-</div>
+<p>
+  <a href="https://www.linkedin.com/in/caiazzo-giovanni/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Giovanni%20Caiazzo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:giovannicaiazzo001@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-giovannicaiazzo001%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
