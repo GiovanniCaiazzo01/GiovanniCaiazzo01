@@ -73,7 +73,6 @@
 </div>
 
 ### 🐍 Contribution Graph
-*(Nota: Assicurati che la GitHub Action per lo snake graph sia configurata per generare questi file SVG!)*
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GiovanniCaiazzo01/GiovanniCaiazzo01/output/github-contribution-grid-snake-dark.svg" />
@@ -85,13 +84,12 @@
 ---
 
 ### ⌨️ Keyboard Layouts
-I type on Colemak daily — switching from QWERTY was one of the best decisions I've made. 
 
 <div align="left">
   <table style="border: none;">
     <tr>
-      <th align="left" style="padding-right: 50px;"><h4>QWERTY — The Classic</h4></th>
-      <th align="left"><h4>Colemak — The Upgrade ✨</h4></th>
+      <th align="left" style="padding-right: 50px;"><h4>QWERTY</h4></th>
+      <th align="left"><h4>Colemak</h4></th>
     </tr>
     <tr>
       <td align="left" style="padding-right: 50px;">
@@ -120,17 +118,15 @@ I type on Colemak daily — switching from QWERTY was one of the best decisions 
 ---
 
 ### 🖥️ My Gear
-Ergonomics isn't a luxury — it's infrastructure.
-
-<div align="center">
+<div align="start">
   <table>
     <tr>
-      <td align="top" width="50%">
+      <td align="start" width="50%">
         <h4>🫶 MoErgo Glove80</h4>
         <img src="https://benfrain.com/assets/blog_homing.jpg" width="400" alt="MoErgo Glove80" /><br><br>
         <i>Split ergonomic • 80 keys • MX Low Profile switches<br>Full tenting & tilt • Wireless BLE 5.0 • ZMK firmware<br>Columnar stagger • Concave thumb cluster • RGB per-key</i>
       </td>
-      <td align="center" width="50%">
+      <td align="start" width="50%">
         <h4>🦾 Kinesis Advantage 360</h4>
         <img src="https://cdn.neowin.com/news/images/uploaded/2021/12/1639791431_kenheader_story.jpg" width="400" alt="Kinesis Advantage 360" /><br><br>
         <i>Split ergonomic • Concave key wells • Cherry MX switches<br>Wireless RF or USB-C • ZMK firmware • SmartSet programmable<br>Dedicated thumb clusters • Linear / Tactile options</i>
