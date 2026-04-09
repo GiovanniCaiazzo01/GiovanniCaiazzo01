@@ -12,9 +12,6 @@
 
 ---
 
-### `$ ls skills/`
-> `react/` &nbsp; `next.js/` &nbsp; `typescript/` &nbsp; `node.js/` &nbsp; `tailwind/` &nbsp; `testing/` &nbsp; `python/`
-
 ### 🛠 Tech Stack
 
 **Frontend**
