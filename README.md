@@ -128,7 +128,7 @@
       </td>
       <td align="start" width="50%">
         <h4>🦾 Kinesis Advantage 360</h4>
-        <img src="https://cdn.neowin.com/news/images/uploaded/2021/12/1639791431_kenheader_story.jpg" width="400" alt="Kinesis Advantage 360" /><br><br>
+        <img src="https://cdn.neowin.com/news/images/uploaded/2021/12/1639791431_kenheader_story.jpg" width="400" alt="Kinesis Advantage 360" /><br>
         <i>Split ergonomic • Concave key wells • Cherry MX switches<br>Wireless RF or USB-C • ZMK firmware • SmartSet programmable<br>Dedicated thumb clusters • Linear / Tactile options</i>
       </td>
     </tr>
