@@ -3,20 +3,12 @@
    
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=React+%2F+Next.js+%2F+TypeScript+developer;Open+source+enthusiast;Colemak+typist+%F0%9F%A4%AB;Always+learning%2C+always+building.)](https://git.io/typing-svg)
 
- <img src="./output_giovanni.gif" alt="Giovanni terminal README banner" />
+ <img src="./output_giovanni_workstation_ascii.gif" alt="Giovanni terminal README banner" />
 </div>
 
-
-  ### `$ whoami`
-> **giovanni-caiazzo** — Front-End Developer
-> Based in Italy 🇮🇹 | Open to opportunities 🌍
-
-### `$ cat about.txt`
-* 💡 Passionate about building modern, scalable, and user-friendly web apps
-* 🌱 Currently focused on **React, Next.js & TypeScript**
-* 💬 Love collaborating, contributing to open source & learning new things
-* 🎯 Turning complex problems into clean, elegant UI
-* ⌨️ Colemak typist on a Glove80 — ergonomics is not optional
+<div align="center">
+ <img src="./.gif" alt="Giovanni terminal README banner" />
+</div>
 
 ---
 
