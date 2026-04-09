@@ -1,44 +1,99 @@
-<img alt="Hand Wave" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Giovanni</h2>
+<div align="center">
 
-### 👨🏻‍💻 &nbsp;About Me
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Giovanni%20Caiazzo&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Front-End%20Developer&descSize=18&descAlignY=58&descColor=a78bfa&animation=fadeIn" width="100%"/>
 
-💡 &nbsp;I’m a Front-End Developer passionate about building modern, scalable, and user-friendly web applications.\
-🌱 &nbsp;Currently focused on React, Next.js, TypeScript.\
-💬 &nbsp;I enjoy collaborating on projects, contributing to open source, and continuously learning new technologies.\
-✉️ &nbsp;You can reach me at **giovannicaiazzo001@gmail.com** 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=React+%2F+Next.js+%2F+TypeScript+developer;Open+source+enthusiast;Always+learning%2C+always+building.)](https://git.io/typing-svg)
 
-### 🛠 &nbsp;Tech Stack
+</div>
 
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)&nbsp;\
-![Tailwind](https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=tailwind-css)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
-![Cypress](https://img.shields.io/badge/-Cypress-05122A?style=flat&logo=cypress)&nbsp;
-![Jest](https://img.shields.io/badge/-Jest-05122A?style=flat&logo=jest)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Fastify](https://img.shields.io/badge/-Fastify-05122A?style=flat&logo=fastify)&nbsp;
+---
 
-### ⚙️ &nbsp;GitHub Analytics
+```bash
+$ whoami
+  giovanni-caiazzo — Front-End Developer
+  Based in Italy 🇮🇹 | Open to opportunities 🌍
 
-<p align="left">
-<a href="https://github.com/GiovanniCaiazzo01">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=GiovanniCaiazzo01&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GiovanniCaiazzo01&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+$ cat about.txt
+  💡 Passionate about building modern, scalable, and user-friendly web apps
+  🌱 Currently focused on React, Next.js & TypeScript
+  💬 Love collaborating, contributing to open source & learning new things
+  🎯 Turning complex problems into clean, elegant UI
 
-### 🤝🏻 &nbsp;Connect with Me
+$ ls skills/
+  react/   next.js/   typescript/   node.js/   tailwind/   testing/
+```
 
-<p align="left">
-<a href="mailto:giovannicaiazzo001@gmail.com"><img src="https://img.shields.io/badge/-giovannicaiazzo001@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://linkedin.com/in/caiazzo-giovanni"><img src="https://img.shields.io/badge/-Giovanni%20Caiazzo-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-</p>
+---
 
-![Giovanni Caiazzo Banner](https://raw.githubusercontent.com/D3Ext/aesthetic-wallpapers/main/images/retro2_live.gif)
+## 🛠 Tech Stack
+
+**Frontend**
+
+![HTML](https://img.shields.io/badge/HTML5-0f0c29?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS](https://img.shields.io/badge/CSS3-0f0c29?style=for-the-badge&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0f0c29?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-0f0c29?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![React](https://img.shields.io/badge/React-0f0c29?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-0f0c29?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0f0c29?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
+
+**Backend & Database**
+
+![Node.js](https://img.shields.io/badge/Node.js-0f0c29?style=for-the-badge&logo=node.js&logoColor=339933)
+![Express](https://img.shields.io/badge/Express-0f0c29?style=for-the-badge&logo=express&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-0f0c29?style=for-the-badge&logo=fastify&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-0f0c29?style=for-the-badge&logo=mongodb&logoColor=47A248)
+
+**Testing & Tools**
+
+![Cypress](https://img.shields.io/badge/Cypress-0f0c29?style=for-the-badge&logo=cypress&logoColor=17202C)
+![Jest](https://img.shields.io/badge/Jest-0f0c29?style=for-the-badge&logo=jest&logoColor=C21325)
+![Git](https://img.shields.io/badge/Git-0f0c29?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-0f0c29?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=GiovanniCaiazzo01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0f0c29"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GiovanniCaiazzo01&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0f0c29"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GiovanniCaiazzo01&theme=tokyonight&hide_border=true&background=0f0c29&stroke=a78bfa&ring=a78bfa&fire=ff79c6&currStreakLabel=a78bfa" />
+</div>
+
+---
+
+## 🐍 Contribution Graph
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GiovanniCaiazzo01/GiovanniCaiazzo01/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GiovanniCaiazzo01/GiovanniCaiazzo01/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GiovanniCaiazzo01/GiovanniCaiazzo01/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-0f0c29?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:giovannicaiazzo001@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0f0c29?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/caiazzo-giovanni)
+[![GitHub](https://img.shields.io/badge/GitHub-0f0c29?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GiovanniCaiazzo01)
+
+</div>
+
+---
+
+<div align="center">
+
+![Profile views](https://komarev.com/ghpvc/?username=GiovanniCaiazzo01&color=a78bfa&style=flat-square&label=profile+views)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer" width="100%"/>
+
+</div>
