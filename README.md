@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=React+%2F+Next.js+%2F+TypeScript+developer;Colemak+typist+%F0%9F%A4%AB;Always+learning%2C+always+building.)](https://git.io/typing-svg)
 
  <div align="center">
- <img src="./portfolio_transparent(1).png" alt="Giovanni terminal README banner" />
+ <img src="./portfolio_transparent.png" alt="Giovanni terminal README banner" />
 </div>
 </div>
 
