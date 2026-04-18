@@ -88,16 +88,18 @@
 <div align="left">
   <table style="border: none;">
     <tr>
-      <th align="left" style="padding-right: 50px;"><h4>QWERTY</h4></th>
+      <th align="left" style="padding-right: 50px;"><h4>QWERTY <sub>Standard</sub></h4></th>
       <th align="left"><h4>Colemak</h4></th>
     </tr>
     <tr>
       <td align="left" style="padding-right: 50px;">
+        <kbd>1</kbd> <kbd>2</kbd> <kbd>3</kbd> <kbd>4</kbd> <kbd>5</kbd> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <kbd>6</kbd> <kbd>7</kbd> <kbd>8</kbd> <kbd>9</kbd> <kbd>0</kbd><br><br>
         <kbd>Q</kbd> <kbd>W</kbd> <kbd>E</kbd> <kbd>R</kbd> <kbd>T</kbd> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <kbd>Y</kbd> <kbd>U</kbd> <kbd>I</kbd> <kbd>O</kbd> <kbd>P</kbd><br><br>
         <kbd>A</kbd> <kbd>S</kbd> <kbd>D</kbd> <kbd>F</kbd> <kbd>G</kbd> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <kbd>H</kbd> <kbd>J</kbd> <kbd>K</kbd> <kbd>L</kbd> <kbd>;</kbd><br><br>
         <kbd>Z</kbd> <kbd>X</kbd> <kbd>C</kbd> <kbd>V</kbd> <kbd>B</kbd> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <kbd>N</kbd> <kbd>M</kbd> <kbd>,</kbd> <kbd>.</kbd> <kbd>/</kbd>
       </td>
       <td align="left">
+        <kbd>1</kbd> <kbd>2</kbd> <kbd>3</kbd> <kbd>4</kbd> <kbd>5</kbd> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <kbd>6</kbd> <kbd>7</kbd> <kbd>8</kbd> <kbd>9</kbd> <kbd>0</kbd><br><br>
         <kbd>Q</kbd> <kbd>W</kbd> <kbd>F</kbd> <kbd>P</kbd> <kbd>G</kbd> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <kbd>J</kbd> <kbd>L</kbd> <kbd>U</kbd> <kbd>Y</kbd> <kbd>;</kbd><br><br>
         <kbd>A</kbd> <kbd>R</kbd> <kbd>S</kbd> <kbd>T</kbd> <kbd>D</kbd> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <kbd>H</kbd> <kbd>N</kbd> <kbd>E</kbd> <kbd>I</kbd> <kbd>O</kbd><br><br>
         <kbd>Z</kbd> <kbd>X</kbd> <kbd>C</kbd> <kbd>V</kbd> <kbd>B</kbd> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <kbd>K</kbd> <kbd>M</kbd> <kbd>,</kbd> <kbd>.</kbd> <kbd>/</kbd>
@@ -105,6 +107,34 @@
     </tr>
   </table>
 </div>
+
+<br>
+
+### ⇧ Shift Layer
+
+<div align="left">
+  <table style="border: none;">
+    <tr>
+      <th align="left" style="padding-right: 50px;"><h4>QWERTY <sub>Standard</sub></h4></th>
+      <th align="left"><h4>Colemak ( Custom )</h4></th>
+    </tr>
+    <tr>
+      <td align="left" style="padding-right: 50px;">
+        <kbd>!</kbd> <kbd>@</kbd> <kbd>#</kbd> <kbd>$</kbd> <kbd>%</kbd> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <kbd>^</kbd> <kbd>&amp;</kbd> <kbd>*</kbd> <kbd>(</kbd> <kbd>)</kbd><br><br>
+        <kbd>Q</kbd> <kbd>W</kbd> <kbd>E</kbd> <kbd>R</kbd> <kbd>T</kbd> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <kbd>Y</kbd> <kbd>U</kbd> <kbd>I</kbd> <kbd>O</kbd> <kbd>P</kbd><br><br>
+        <kbd>A</kbd> <kbd>S</kbd> <kbd>D</kbd> <kbd>F</kbd> <kbd>G</kbd> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <kbd>H</kbd> <kbd>J</kbd> <kbd>K</kbd> <kbd>L</kbd> <kbd>:</kbd><br><br>
+        <kbd>Z</kbd> <kbd>X</kbd> <kbd>C</kbd> <kbd>V</kbd> <kbd>B</kbd> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <kbd>N</kbd> <kbd>M</kbd> <kbd>&lt;</kbd> <kbd>&gt;</kbd> <kbd>?</kbd>
+      </td>
+      <td align="left">
+        <kbd>!</kbd> <kbd>[</kbd> <kbd>{</kbd> <kbd>(</kbd> <kbd>|</kbd> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <kbd>&</kbd> <kbd>)</kbd> <kbd>}</kbd> <kbd>]</kbd> <kbd>#</kbd><br><br>
+        <kbd>Q</kbd> <kbd>W</kbd> <kbd>F</kbd> <kbd>P</kbd> <kbd>G</kbd> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <kbd>J</kbd> <kbd>L</kbd> <kbd>U</kbd> <kbd>Y</kbd> <kbd>:</kbd><br><br>
+        <kbd>A</kbd> <kbd>R</kbd> <kbd>S</kbd> <kbd>T</kbd> <kbd>D</kbd> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <kbd>H</kbd> <kbd>N</kbd> <kbd>E</kbd> <kbd>I</kbd> <kbd>O</kbd><br><br>
+        <kbd>Z</kbd> <kbd>X</kbd> <kbd>C</kbd> <kbd>V</kbd> <kbd>B</kbd> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <kbd>K</kbd> <kbd>M</kbd> <kbd>&lt;</kbd> <kbd>&gt;</kbd> <kbd>?</kbd>
+      </td>
+    </tr>
+  </table>
+</div>
+
 <br>
 
 ---
