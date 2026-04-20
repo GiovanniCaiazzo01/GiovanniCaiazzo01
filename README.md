@@ -99,7 +99,7 @@
         <kbd>Z</kbd> <kbd>X</kbd> <kbd>C</kbd> <kbd>V</kbd> <kbd>B</kbd> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <kbd>N</kbd> <kbd>M</kbd> <kbd>,</kbd> <kbd>.</kbd> <kbd>/</kbd>
       </td>
       <td align="left">
-        <kbd>1</kbd> <kbd>2</kbd> <kbd>3</kbd> <kbd>4</kbd> <kbd>5</kbd> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <kbd>6</kbd> <kbd>7</kbd> <kbd>8</kbd> <kbd>9</kbd> <kbd>0</kbd><br><br>
+        <kbd>!</kbd> <kbd>[</kbd> <kbd>{</kbd> <kbd>(</kbd> <kbd>|</kbd> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <kbd>&</kbd> <kbd>)</kbd> <kbd>}</kbd> <kbd>]</kbd> <kbd>#</kbd><br><br>
         <kbd>Q</kbd> <kbd>W</kbd> <kbd>F</kbd> <kbd>P</kbd> <kbd>G</kbd> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <kbd>J</kbd> <kbd>L</kbd> <kbd>U</kbd> <kbd>Y</kbd> <kbd>;</kbd><br><br>
         <kbd>A</kbd> <kbd>R</kbd> <kbd>S</kbd> <kbd>T</kbd> <kbd>D</kbd> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <kbd>H</kbd> <kbd>N</kbd> <kbd>E</kbd> <kbd>I</kbd> <kbd>O</kbd><br><br>
         <kbd>Z</kbd> <kbd>X</kbd> <kbd>C</kbd> <kbd>V</kbd> <kbd>B</kbd> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <kbd>K</kbd> <kbd>M</kbd> <kbd>,</kbd> <kbd>.</kbd> <kbd>/</kbd>
@@ -126,7 +126,7 @@
         <kbd>Z</kbd> <kbd>X</kbd> <kbd>C</kbd> <kbd>V</kbd> <kbd>B</kbd> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <kbd>N</kbd> <kbd>M</kbd> <kbd>&lt;</kbd> <kbd>&gt;</kbd> <kbd>?</kbd>
       </td>
       <td align="left">
-        <kbd>!</kbd> <kbd>[</kbd> <kbd>{</kbd> <kbd>(</kbd> <kbd>|</kbd> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <kbd>&</kbd> <kbd>)</kbd> <kbd>}</kbd> <kbd>]</kbd> <kbd>#</kbd><br><br>
+        <kbd>1</kbd> <kbd>2</kbd> <kbd>3</kbd> <kbd>4</kbd> <kbd>5</kbd> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <kbd>6</kbd> <kbd>7</kbd> <kbd>8</kbd> <kbd>9</kbd> <kbd>0</kbd><br><br>
         <kbd>Q</kbd> <kbd>W</kbd> <kbd>F</kbd> <kbd>P</kbd> <kbd>G</kbd> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <kbd>J</kbd> <kbd>L</kbd> <kbd>U</kbd> <kbd>Y</kbd> <kbd>:</kbd><br><br>
         <kbd>A</kbd> <kbd>R</kbd> <kbd>S</kbd> <kbd>T</kbd> <kbd>D</kbd> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <kbd>H</kbd> <kbd>N</kbd> <kbd>E</kbd> <kbd>I</kbd> <kbd>O</kbd><br><br>
         <kbd>Z</kbd> <kbd>X</kbd> <kbd>C</kbd> <kbd>V</kbd> <kbd>B</kbd> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <kbd>K</kbd> <kbd>M</kbd> <kbd>&lt;</kbd> <kbd>&gt;</kbd> <kbd>?</kbd>
