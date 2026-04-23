@@ -8,8 +8,6 @@
 </div>
 </div>
 
-
-
 ---
 
 ### 🛠 Tech Stack
